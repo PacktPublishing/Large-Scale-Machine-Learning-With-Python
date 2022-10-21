@@ -11,3 +11,7 @@ The first chapter will provide you with all the step-by-step instructions and so
 - [R Machine Learning By Example](https://www.packtpub.com/big-data-and-business-intelligence/r-machine-learning-example?utm_source=github&utm_medium=repository&utm_campaign=9781784390846)
 - [R Machine Learning Essentials](https://www.packtpub.com/big-data-and-business-intelligence/r-machine-learning-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781783987740)
 - [Machine Learning with R](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r?utm_source=github&utm_medium=repository&utm_campaign=9781782162148) 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to download a free PDF copy of this book.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781785887215">https://packt.link/free-ebook/9781785887215 </a> </p>
